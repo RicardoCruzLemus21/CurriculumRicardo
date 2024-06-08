@@ -1,0 +1,25 @@
+.container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    
+  }
+  
+  h1 {
+    color: #343a40;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+  }
+  
+  .card-title {
+    color: #007bff;
+  }
+  
+  .list-group-item {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+  }
+  
